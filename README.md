@@ -5,7 +5,7 @@ This website consists of 1 main page and 2 subpages. The main page is a layout p
 
 ## Demo
 
-https://coffee-guru.onrender.com/create-your-plan
+https://coffee-guru.onrender.com
 
 ## Run Locally
 
